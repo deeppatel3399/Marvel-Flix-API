@@ -26,8 +26,26 @@
             "titlelogo": "https://wallpapercave.com/uwp/uwp2268456.png",
             "rating": "7.5/10 IMDB",
             "generes": "Action Adventure Drama",
-            "languages": "English / Hindi"
-          },
+            "languages": "English / Hindi",
+            "seasons":[
+              {
+                "season1":[
+                  {
+                    "episodes":[
+                      {
+                        "id": 1,
+                        "title": "The Goldfish Problem",
+                        "overview": "Steven Grant learns that he may be a superhero, but may also share a body with a ruthless mercenary.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0f/MK101_-_StevenGrantPhone.png/revision/latest/scale-to-width-down/1000?cb=20220330072741",
+                        "rating": "8.2/10 IMDB",
+                        "length": "47m"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+           },
           {
             "id": 35,
             "title": "Venom: Let There Be Carnage",
@@ -51,7 +69,65 @@
             "titlelogo": "https://wallpapercave.com/uwp/uwp2268273.png",
             "rating": "7.7/10 IMDB",
             "generes": "Action Adventure Crime",
-            "languages": "English / Hindi"
+            "languages": "English / Hindi",
+            "seasons":[
+              {
+                "season1":[
+                  {
+                    "episodes":[
+                      {
+                        "id": 1,
+                        "title": "Never Meet Your Heroes",
+                        "overview": "Archer Kate Bishop lands in the middle of a criminal conspiracy, forcing Hawkeye out of retirement.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7e/Hawkeye_-_Never_Meet_Your_Heroes.jpg/revision/latest?cb=20211124091440",
+                        "rating": "7.6/10 IMDB",
+                        "length": "47m"
+                      },
+                      {
+                        "id": 2,
+                        "title": "Hide and Seek",
+                        "overview": "Clint has to help Kate disentangle herself from the Tracksuit Mafia and a real-life murder mystery.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3a/Hawkeye_-_Hide_and_Seek.jpg/revision/latest?cb=20211124084702",
+                        "rating": "7.7/10 IMDB",
+                        "length": "49m"
+                      },
+                      {
+                        "id": 3,
+                        "title": "Echoes",
+                        "overview": "After escaping a new threat, Clint and Kate join forces against an expanding criminal conspiracy.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/93/Hawkeye_-_Echoes.jpg/revision/latest?cb=20211201173816",
+                        "rating": "8.3/10 IMDB",
+                        "length": "42m"
+                      },
+                      {
+                        "id": 4,
+                        "title": "Partners, Am I Right?",
+                        "overview": "Secrets are revealed and hard truths emerge, culminating in a battle against two opposing forces.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5c/Hawkeye_-_Episode_4.jpg/revision/latest?cb=20211209015635",
+                        "rating": "8.1/10 IMDB",
+                        "length": "39m"
+                      },
+                      {
+                        "id": 5,
+                        "title": "Ronin",
+                        "overview": "A fallout nearly derails their partnership, but Kate makes a discovery that changes everything.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/79/Hawkeye_-_Ronin.jpg/revision/latest?cb=20211215194056",
+                        "rating": "8.6/10 IMDB",
+                        "length": "44m"
+                      },
+                      {
+                        "id": 6,
+                        "title": "So This Is Christmas?",
+                        "overview": "Clint and Kate's partnership is tested as they face the consequences of exposing the conspiracy.",
+                        "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a2/Hawkeye_-_Episode_6.jpg/revision/latest?cb=20211222085444",
+                        "rating": "8.0/10 IMDB",
+                        "length": "1h 1m"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           },
           {
             "id": 27,

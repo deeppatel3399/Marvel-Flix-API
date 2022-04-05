@@ -4,6 +4,40 @@
       {
         "data":[
           {
+            "id": 36,
+            "title": "Morbius",
+            "overview": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+            "releaseDate": "1 April 2022",
+            "poster" : "https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg",
+            "rating": "4.7/10 IMDB",
+            "generes": "Action Adventure Horror",
+            "length": "1 hours 44 minutes",
+            "languages": "English / Hindi"
+          },
+          {
+            "id": 12,
+            "title": "Moon Knight",
+            "overview": "A former U.S. Marine, struggling with dissociative identity disorder, is granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+            "releaseDate": "30 March 2022",
+            "poster" : "https://terrigen-cdn-dev.marvel.com/content/prod/1x/moonknight_lob_crd_05.jpg",
+            "mainposter": "https://wallpapercave.com/uwp/uwp2268410.jpeg",
+            "titlelogo": "https://wallpapercave.com/uwp/uwp2268456.png",
+            "rating": "7.5/10 IMDB",
+            "generes": "Action Adventure Drama",
+            "languages": "English / Hindi"
+          },
+          {
+            "id": 35,
+            "title": "Venom: Let There Be Carnage",
+            "overview": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+            "releaseDate": "15 October 2021",
+            "poster" : "https://wallpapercave.com/wp/wp9128564.jpg",
+            "rating": "6.0/10 IMDB",
+            "generes": "Action Adventure Sci-Fi",
+            "length": "1 hours 37 minutes",
+            "languages": "English / Hindi"
+          },
+          {
             "id": 5,
             "title": "Hawkeye",
             "overview": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop, who took on the role after the original Avenger, Clint Barton.",
@@ -33,27 +67,6 @@
             "rating": "6.4/10 IMDB",
             "generes": "Action Adventure Fantasy",
             "length": "2 hours 36 minutes",
-            "languages": "English / Hindi"
-          },
-          {
-            "id": 4,
-            "title": "What If...?",
-            "overview": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
-            "releaseDate": "11 August 2021",
-            "poster" : "https://wallpapercave.com/uwp/uwp2231225.jpeg",
-            "rating": "7.5/10 IMDB",
-            "generes": "Animation Action Adventure",
-            "languages": "English / Hindi"
-          },
-          {
-            "id": 35,
-            "title": "Venom: Let There Be Carnage",
-            "overview": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
-            "releaseDate": "15 October 2021",
-            "poster" : "https://wallpapercave.com/wp/wp9128564.jpg",
-            "rating": "6.0/10 IMDB",
-            "generes": "Action Adventure Sci-Fi",
-            "length": "1 hours 37 minutes",
             "languages": "English / Hindi"
           }
         ]
@@ -571,7 +584,7 @@
       },
       {
         "id": 4,
-        "title": "What If...?",
+        "title": "What If",
         "overview": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
         "releaseDate": "11 August 2021",
         "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif_lob_crd_01.jpg",
@@ -2186,6 +2199,36 @@
                     "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/44/The_Punisher_Promo_S2_10.jpg/revision/latest?cb=20190110170259",
                     "rating": "9.0/10 IMDB",
                     "length": "58m"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Moon Knight",
+        "overview": "A former U.S. Marine, struggling with dissociative identity disorder, is granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+        "releaseDate": "30 March 2022",
+        "poster" : "https://terrigen-cdn-dev.marvel.com/content/prod/1x/moonknight_lob_crd_05.jpg",
+        "mainposter": "https://wallpapercave.com/uwp/uwp2268410.jpeg",
+        "titlelogo": "https://wallpapercave.com/uwp/uwp2268456.png",
+        "rating": "7.5/10 IMDB",
+        "generes": "Action Adventure Drama",
+        "languages": "English / Hindi",
+        "seasons":[
+          {
+            "season1":[
+              {
+                "episodes":[
+                  {
+                    "id": 1,
+                    "title": "The Goldfish Problem",
+                    "overview": "Steven Grant learns that he may be a superhero, but may also share a body with a ruthless mercenary.",
+                    "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0f/MK101_-_StevenGrantPhone.png/revision/latest/scale-to-width-down/1000?cb=20220330072741",
+                    "rating": "8.2/10 IMDB",
+                    "length": "47m"
                   }
                 ]
               }
@@ -3821,7 +3864,7 @@
    },
    {
      "id": 4,
-     "title": "What If...?",
+     "title": "What If",
      "overview": "Exploring pivotal moments from the Marvel Cinematic Universe and turning them on their head, leading the audience into uncharted territory.",
      "releaseDate": "11 August 2021",
      "poster": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif_lob_crd_01.jpg",
@@ -5458,6 +5501,36 @@
          ]
        }
      ]
+   },
+   {
+    "id": 12,
+    "title": "Moon Knight",
+    "overview": "A former U.S. Marine, struggling with dissociative identity disorder, is granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+    "releaseDate": "30 March 2022",
+    "poster" : "https://terrigen-cdn-dev.marvel.com/content/prod/1x/moonknight_lob_crd_05.jpg",
+    "mainposter": "https://wallpapercave.com/uwp/uwp2268410.jpeg",
+    "titlelogo": "https://wallpapercave.com/uwp/uwp2268456.png",
+    "rating": "7.5/10 IMDB",
+    "generes": "Action Adventure Drama",
+    "languages": "English / Hindi",
+    "seasons":[
+      {
+        "season1":[
+          {
+            "episodes":[
+              {
+                "id": 1,
+                "title": "The Goldfish Problem",
+                "overview": "Steven Grant learns that he may be a superhero, but may also share a body with a ruthless mercenary.",
+                "poster": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0f/MK101_-_StevenGrantPhone.png/revision/latest/scale-to-width-down/1000?cb=20220330072741",
+                "rating": "8.2/10 IMDB",
+                "length": "47m"
+              }
+            ]
+          }
+        ]
+      }
+    ]
    }
   ]
   }

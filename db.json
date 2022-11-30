@@ -3254,7 +3254,10 @@
             "rating": "7.9/10 IMDB",
             "generes": "Action Adventure Sci-Fi",
             "length": "2 hours 6 minutes",
-            "languages": "English / Hindi"
+            "languages": "English / Hindi",
+            "720p" : "https://www.googleapis.com/drive/v3/files/1OY1fNHNauoA1U72h-_EMDrrtfRdGURQY?alt=media&key=AIzaSyAWKEvKxhX7xwPQ9XwpptxcuhC4p2um5sw",
+            "1080p" : "https://www.googleapis.com/drive/v3/files/18bGUh49a5g8nXP_tSR1tgyN3mrpjl4Bz?alt=media&key=AIzaSyAWKEvKxhX7xwPQ9XwpptxcuhC4p2um5sw",
+            "4k" : "https://www.googleapis.com/drive/v3/files/1FUMmRYCZkqL1KF5pEtOVI5KHVpKLkmPw?alt=media&key=AIzaSyAWKEvKxhX7xwPQ9XwpptxcuhC4p2um5sw"
         },
         {
           "id": 2,

@@ -1,0 +1,25 @@
+{
+    "APIKEYS":
+    [
+        {
+           "id" : 1,
+           "key" : "AIzaSyAWKEvKxhX7xwPQ9XwpptxcuhC4p2um5sw"
+        },
+        {
+            "id" : 2,
+            "key" : "AIzaSyAL-ppV6Kb5bY6-m0ukc4DSsmgkIDn4wEU"
+         },
+         {
+            "id" : 3,
+            "key" : ""
+         },
+         {
+            "id" : 4,
+            "key" : ""
+         },
+         {
+            "id" : 5,
+            "key" : ""
+         }
+    ]
+}
